@@ -12,7 +12,7 @@ GIS naudojamas:
 - Citizen engagement tools - paslaugų radimo servisai (kavinės, parduotuvės)
 - Augmented reality and 3D visualization - erdviniai duomenys naudojami interaktyviam planavimui
 - Field data collection system - statybų aikštelės skenavimas dronais;
-- Storytelling medium - komunikuoja erdvės kitimą per interaktyvius kitimo žemėlapius (muziejai, kur rodomas reljefo kitimas). Balsavimo duomenys, savivaldybės baldavimo aktyvumas;
+- Storytelling medium - komunikuoja erdvės kitimą per interaktyvius kitimo žemėlapius (muziejai, kur rodomas reljefo kitimas). Balsavimo duomenys, savivaldybės balsavimo aktyvumas;
 
 Sudėtingiausias uždavinys - duomenų gavimas. Norint ypač tikslių duomenų juos gali tekti pirkti iš Google.
 
