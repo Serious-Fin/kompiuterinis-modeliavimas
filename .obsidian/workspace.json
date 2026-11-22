@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "erdvines-duomenu-bazes/1 Introduction.md",
+                "file": "cybersec-nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Introduction"
+              "title": "cybersec-nmap"
             }
           }
         ],
@@ -206,8 +206,20 @@
   },
   "active": "5d03226c17d2933e",
   "lastOpenFiles": [
-    "tests.md",
+    "cybersec-ex2 checklist.md",
+    "cybersec-nmap.md",
+    "kriptografijos-metodai/1 užduotis.md",
+    "erdvines-duomenu-bazes/5 Operatoriai, užklausos.md",
+    "erdvines-duomenu-bazes/4.md",
+    "erdvines-duomenu-bazes/2 Data Models and Structures.md",
+    "erdvines-duomenu-bazes/3 GIS Data Types and Data Storage.md",
+    "Pasted image 20260923161731.png",
+    "Pasted image 20260916172914.png",
+    "Pasted image 20260916172333.png",
+    "Pasted image 20260916171443.png",
     "erdvines-duomenu-bazes/1 Introduction.md",
+    "kriptografijos-metodai",
+    "tests.md",
     "Welcome.md",
     "erdvines-duomenu-bazes"
   ]

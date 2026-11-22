@@ -36,3 +36,15 @@ Viena didžiausių problemų yra žemėlapio saugojimas, nes jis užima labai da
 
 Egzaminas bus iš paskaitų medžiagos: principai, medžiaga, teorija. Bus daug trumpų klausimų, kuriuos reikės atsakyti
 
+Geo-Database (Geo duomenų bazė) - sudaro sluoksniai, pavyzdžiui, pastatai, gatvės, medžiai. Visi duomenys saugomi ne vienoje visumoje, o tiesiog vienas ant kito atvaizduojami sluoksniai.
+
+Main Questions to GIS:
+1. a
+2. Where is the place matching given conditions?
+	- Purpose: Locate areas that meet specific criteria.
+	- Examples: where does the soil density match specific requirements?
+3. What has changed in given location during some given time duration?
+	- Purpose: Detect and analyze temporal changes.
+	- Examples; how has the urban area changes over the past decade?
+4. What are the spatial patterns?
+5. What would happen is some condition satisfied some given criteria in a location?
