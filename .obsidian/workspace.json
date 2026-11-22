@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "cybersec-nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "cybersec-nmap"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "194f173235bccc28",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "kriptografijos-metodai/1 užduotis.md",
     "kriptografijos-metodai",
     "erdvines-duomenu-bazes/5 Operatoriai, užklausos.md",
@@ -219,7 +220,6 @@
     "Pasted image 20260916172333.png",
     "Pasted image 20260916171443.png",
     "kibernetinio-saugumo-tech/Pratybos 8.md",
-    "Untitled 1.md",
     "kibernetinio-saugumo-tech/Pratybos 7.md",
     "kibernetinio-saugumo-tech/Lecture 9.md",
     "mermaid-diagram.png",
