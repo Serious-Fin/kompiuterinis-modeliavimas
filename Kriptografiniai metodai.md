@@ -1,0 +1,1 @@
+Per egzamina galima bus naudoti popierinius konspektus, skaidres, etc
