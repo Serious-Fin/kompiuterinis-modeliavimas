@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersec-nmap.md",
+                "file": "cybersec-http-headers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cybersec-nmap"
+              "title": "cybersec-http-headers"
             }
           }
         ],
@@ -206,6 +206,8 @@
   },
   "active": "194f173235bccc28",
   "lastOpenFiles": [
+    "cybersec-nmap.md",
+    "cybersec-http-headers.md",
     "Untitled 1.md",
     "kriptografijos-metodai/1 užduotis.md",
     "kriptografijos-metodai",
@@ -213,7 +215,6 @@
     "erdvines-duomenu-bazes/4.md",
     "erdvines-duomenu-bazes/3 GIS Data Types and Data Storage.md",
     "erdvines-duomenu-bazes/2 Data Models and Structures.md",
-    "cybersec-nmap.md",
     "cybersec-ex2 checklist.md",
     "Pasted image 20260923161731.png",
     "Pasted image 20260916172914.png",
@@ -242,7 +243,6 @@
     "cloud computing/images/Pasted image 20260928172722.png",
     "cloud computing/Lecture 3 - Infrastructure alternatives.md",
     "kibernetinio-saugumo-tech/Pratybos 1.md",
-    "Welcome.md",
     "cloud computing",
     "kibernetinio-saugumo-tech",
     "erdvines-duomenu-bazes"
